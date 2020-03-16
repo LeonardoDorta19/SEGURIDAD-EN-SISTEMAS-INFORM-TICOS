@@ -1,2 +1,2 @@
 # SEGURIDAD-EN-SISTEMAS-INFORM-TICOS
-Asignaruta de Seguridad en Sistemas Informaticos
+Asignatura de Seguridad en Sistemas Informaticos
